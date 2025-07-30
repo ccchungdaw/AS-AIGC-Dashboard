@@ -1,5 +1,6 @@
 TranscribeStatistics.sh
 TranscribeList.sh
+.test
 *.old
 *.log
 *.test
