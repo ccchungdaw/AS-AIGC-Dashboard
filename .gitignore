@@ -1,5 +1,5 @@
-.sqlpassword
 TranscribeStatistics.sh
-TranscribeStatistics.sh.old
 TranscribeList.sh
-TranscribeStatistics.log
+*.old
+*.log
+*.test
