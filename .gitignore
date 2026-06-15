@@ -1,6 +1,9 @@
+.git-credentials-cron
 TranscribeStatistics.sh
 TranscribeList.sh
 .test
 *.old
 *.log
 *.test
+wa
+.git-credentials-cron
